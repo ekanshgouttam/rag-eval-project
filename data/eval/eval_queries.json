@@ -1,0 +1,67 @@
+[
+  {
+    "query": "gradient descent methods for improving retrieval performance",
+    "category": "adversarial",
+    "relevant_arxiv_ids": ["2605.26356v1", "2510.24652v2"]
+  },
+  {
+    "query": "estimators that outperform baseline models in regression tasks",
+    "category": "adversarial",
+    "relevant_arxiv_ids": []
+  },
+  {
+    "query": "combining semantic search and hybrid retrieval to improve RAG accuracy",
+    "category": "easy",
+    "relevant_arxiv_ids": ["2404.07220v2"]
+  },
+  {
+    "query": "using knowledge graphs instead of standard RAG for better LLM answers",
+    "category": "easy",
+    "relevant_arxiv_ids": ["2412.05447v3"]
+  },
+  {
+    "query": "multi-agent filtering retrieval-augmented generation",
+    "category": "easy",
+    "relevant_arxiv_ids": ["2501.00332v1"]
+  },
+  {
+    "query": "benchmarking RAG systems on questions requiring multiple retrieval hops",
+    "category": "easy",
+    "relevant_arxiv_ids": ["2401.15391v1"]
+  },
+  {
+    "query": "graph-based retrieval augmented generation using dynamic graphs and event reasoning",
+    "category": "easy",
+    "relevant_arxiv_ids": ["2507.13396v1"]
+  },
+  {
+    "query": "singular value decomposition for efficient tree-organized retrieval in RAG",
+    "category": "easy",
+    "relevant_arxiv_ids": ["2607.10316v1"]
+  },
+  {
+    "query": "letting an AI model decide on its own when and how to search for information",
+    "category": "semantic",
+    "relevant_arxiv_ids": ["2501.09136v4"]
+  },
+  {
+    "query": "protecting a RAG system from attackers who insert misleading documents into the corpus",
+    "category": "semantic",
+    "relevant_arxiv_ids": ["2406.05870v4", "2607.00012v1"]
+  },
+  {
+    "query": "a lightweight RAG approach that avoids the cost of building vector embeddings",
+    "category": "semantic",
+    "relevant_arxiv_ids": ["2401.11246v1"]
+  },
+  {
+    "query": "medical question answering system built on retrieval-augmented generation",
+    "category": "semantic",
+    "relevant_arxiv_ids": ["2509.05505v1"]
+  },
+  {
+    "query": "techniques for making RAG retrieval more accurate or efficient",
+    "category": "multi-candidate",
+    "relevant_arxiv_ids": ["2411.07396v1", "2602.07297v1", "2509.04139v1", "2602.22225v1", "2510.24652v2", "2404.07221v2"]
+}
+]
