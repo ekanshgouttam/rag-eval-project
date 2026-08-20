@@ -54,6 +54,7 @@ def bm25_search(query_text, top_k=5):
 # for r in results:
 #     print(r["score"], r["title"])
 
+
 if __name__ == "__main__":
     results = bm25_search("hybrid retrieval and reranking for RAG systems")
     for r in results:
